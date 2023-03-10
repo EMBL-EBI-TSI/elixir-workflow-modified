@@ -1,3 +1,6 @@
+> **Note**
+> The EBI Cloud Portal has been retired and its code base is no longer updated.
+> 
 # ELIXIR cloudportal workflow
 aka *Elixir QC EBI Qcloud TSI Cloud Portal*
 
